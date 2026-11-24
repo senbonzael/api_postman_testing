@@ -4,6 +4,7 @@ about: api bug report
 title: POST /api/
 labels: ''
 assignees: ''
+type: Bug
 
 ---
 
