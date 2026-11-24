@@ -66,7 +66,7 @@ type: Bug
       <br> 
 
 ```json
-      
+
 ```
 </td> 
     </tr>
