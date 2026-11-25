@@ -22,10 +22,6 @@ type: Bug
       <td>Дефект</td>
     </tr>
     <tr>
-      <td>Эндпоинт</td>    
-      <td><a href=""></a></td> <!-- ВПИСАТЬ ЭНДПОИНТ-->
-    </tr>
-    <tr>
       <td>Среда</td>
       <td>Test</td>
     </tr>
